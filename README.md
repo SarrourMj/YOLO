@@ -17,7 +17,6 @@ Qualitative Analysis: Through direct observation of predicted keypoints on image
 These two aspects together form a comprehensive evaluation of the YOLOv8m-pose model applied to animal pose estimation.
 
 3. Architecture and Adopted Approach
-[Include the architecture diagram image here, e.g., ![Architecture Diagram](archi.png)]
 
 Our practical work proceeded step-by-step:
 
